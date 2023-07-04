@@ -48,6 +48,13 @@ src="https://img.shields.io/twitter/follow/ExcellenceKawej?logo=twitter&style=fo
 <a href="http://www.github.com/ethanpyth"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ethanpyth&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ethanpyth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanpyth&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Roadmap.sh
+
+My learning journey on [roadmap.sh](https://roadmap.sh)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64908147db7de05a7a6ee04e?variant=dark)](https://roadmap.sh)
+
 <!---
 ethanpyth/ethanpyth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
