@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Developer | Data scientist enthusiast
 --------------------------------------------
 
-i'm a student in software engineering at Higher School of computer science of SALAMA (ESIS : Ecole Supérieure d'Informatique SALAMA), and i'm an Alpha Microsoft Student Ambassador, very passionate to share my knowledge to others.
+i'm a student in software engineering at Higher School of computer science of SALAMA (ESIS : Ecole Supérieure d'Informatique SALAMA), and i'm an Beta Microsoft Student Ambassador, very passionate to share my knowledge to others.
 
 * 🌍  I'm based in Lubumbashi
 * ✉️  You can contact me at [kawejexcellence@outlook.com](mailto:kawejexcellence@outlook.com)
