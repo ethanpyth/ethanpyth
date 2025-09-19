@@ -1,59 +1,62 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Excellence KAWEJ
-========================================================================================================================================
+# 👋 Hi, I'm Excellence Kawej  
 
-Mobile Developer | Data scientist enthusiast
---------------------------------------------
+🚀 **Android & Kotlin Multiplatform Developer** passionate about building clean, scalable, and user-friendly applications.  
+I enjoy turning complex problems into simple solutions, from mobile apps to multiplatform projects.  
 
-i'm a student in software engineering at Higher School of computer science of SALAMA (ESIS : Ecole Supérieure d'Informatique SALAMA), and i'm an Beta Microsoft Student Ambassador, very passionate to share my knowledge to others.
+---
 
-* 🌍  I'm based in Lubumbashi
-* ✉️  You can contact me at [kawejexcellence@outlook.com](mailto:kawejexcellence@outlook.com)
-* 🧠  I'm learning flutter, .net MAUI
-* 🤝  I'm open to collaborating on mobile projects
+## 🛠️ Tech Stack  
 
-<a href="https://www.github.com/ethanpyth" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ethanpyth?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ExcellenceKawej" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ExcellenceKawej?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![KMM](https://img.shields.io/badge/Kotlin%20Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Skills
+---
 
+## 🌟 Featured Projects  
 
-<p align="left">
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+- 📱 **[Validable](https://github.com/devscast/validable)**  
+   A Kotlin library for validating fields like passwords, credit cards, emails, and phone numbers.  
 
+- 🔒 **Authentication & Permissions**  
+   Custom backend-based authentication and permissions management for secure applications.  
 
-### Socials
+- 🌍 **Cross-Platform Development**  
+   Implemented **Google Sign-In** and **Geolocation** across Android & iOS using Kotlin Multiplatform.  
 
-<p align="left"> <a href="https://www.github.com/ethanpyth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/excellence-kawej-4b597a1b1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ExcellenceKawej" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+## 📈 Current Focus  
 
-<b>My GitHub Stats</b>
+- ⚡ Mastering **Compose Multiplatform** & **KMM**  
+- 🛡️ Building apps with **security & performance** in mind  
 
-<a href="http://www.github.com/ethanpyth"><img src="https://github-readme-stats.vercel.app/api?username=ethanpyth&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ethanpyth's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/ethanpyth"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanpyth&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📊 GitHub Stats  
 
-<a href="http://www.github.com/ethanpyth"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ethanpyth&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethanpyth&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanpyth&layout=compact&theme=tokyonight)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ethanpyth&theme=tokyo-night)
 
-<a href="https://github.com/ethanpyth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanpyth&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-### Roadmap.sh
+## 📫 Connect with Me  
 
-My learning journey on [roadmap.sh](https://roadmap.sh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xcelk)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethanpyth)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64908147db7de05a7a6ee04e?variant=dark)](https://roadmap.sh)
+---
+
+✨ *Always open to collaborating on open-source, mobile innovation, and impactful technologies.*  
+
 
 <!---
 ethanpyth/ethanpyth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
